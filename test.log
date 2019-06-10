@@ -1,0 +1,8 @@
+DEBUG:root:add: 10 + 2 = 12
+DEBUG:root:subtract: 10 - 2 = 8
+DEBUG:root:Multiplication: 10 * 2 = 20
+DEBUG:root:division: 10 / 2 = 5.0
+2019-06-10 19:48:07,306 : 1560192487.306304:DEBUG:add: 10 + 2 = 12
+2019-06-10 19:48:07,309 : 1560192487.309304:DEBUG:subtract: 10 - 2 = 8
+2019-06-10 19:48:07,310 : 1560192487.310303:DEBUG:Multiplication: 10 * 2 = 20
+2019-06-10 19:48:07,312 : 1560192487.312302:DEBUG:division: 10 / 2 = 5.0
